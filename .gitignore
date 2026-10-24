@@ -1,0 +1,17 @@
+# Exclude raw and processed datasets
+
+DATA/Raw Data/
+DATA/Processed/
+
+# Ignore CSV files
+
+*.csv
+
+# Ignore Jupyter temporary files
+
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+
+**pycache**/
+*.pyc
